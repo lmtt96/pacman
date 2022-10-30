@@ -1,5 +1,10 @@
 # pacman
 
+## Autor
+* **Nome:** Leandro de Souza Mattos
+* **RA:** 11049914
+
+## 1. Introdução
 O seguinte projeto tem como objetivo a elaboração de uma adaptação do jogo Pacman. Para tal o
 programa foi escrito em C++ e seguindo a elaboração vista em aula. A movimentação do jogador é
 feito na entrada do programa, dada pelas teclas de seta para cima/baixo e esquerda/direita. Na saída
